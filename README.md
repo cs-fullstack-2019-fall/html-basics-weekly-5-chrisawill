@@ -1,3 +1,7 @@
+### GRADE COMMENTS:
+* Basic search worked, however CSS did not produce expected results for search area, header, or footer.
+Not a bad effort, but please practice your CSS. In particular, get really good at the upcoming CSS topicand you will rarely need to use 'float' which seemed to cause you issues.
+
 # HTML/CSS Weekly 5
 
 Reproduce the Google search page
